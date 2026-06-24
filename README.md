@@ -2,27 +2,24 @@
   <img src="./banner.png" alt="Banner"/>
 </p>
 
-# Hi there 👋, I'm Swastik
+<h1 align="center">Hi 👋, I'm Swastik Goswami</h1>
 
-<div align="center">
+<p align="center">
+  Software Engineering Student • Backend & Full-Stack Developer
+</p>
 
-### Software Engineering Student • Backend & Full-Stack Developer
-
-Building systems, learning distributed applications, and turning ideas into products.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer;Full-Stack+Engineer;Learning+Docker+and+CI%2FCD;Building+BuildMonitor;100%2B+DSA+Problem+Journey" alt="Typing SVG" />
-
-</div>
+<p align="center">
+  Building applications, exploring system architecture, and creating tools that solve real-world problems.
+</p>
 
 ---
 
-## 🚀 Current Focus
+## 🚀 About Me
 
-* Building **BuildMonitor** (flagship project)
-* Learning **Docker**, **CI/CD**, and backend architecture
-* Working through the **100x Backend Cohort**
-* Solving **100+ DSA problems**
-* Improving system design and development workflows
+* 💻 Interested in Backend Development, Full-Stack Engineering, and Developer Tools
+* 🌱 Currently learning Docker, CI/CD, and modern backend architecture
+* 🔨 Working on projects involving React, TypeScript, FastAPI, PostgreSQL, and Python
+* 🎯 Focused on building practical, production-oriented software
 
 ---
 
@@ -46,12 +43,12 @@ Building systems, learning distributed applications, and turning ideas into prod
 ![Express](https://img.shields.io/badge/Express-000000?logo=express\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi\&logoColor=white)
 
-### Database
+### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb\&logoColor=white)
 
-### DevOps
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)
@@ -63,7 +60,7 @@ Building systems, learning distributed applications, and turning ideas into prod
 
 ### 🔹 BuildMonitor *(In Progress)*
 
-Developer-focused monitoring platform for build tracking, deployment visibility, and engineering workflows.
+A developer-focused platform for monitoring builds, deployments, and engineering workflows.
 
 ### 🔹 CICD-Healing-Agent
 
@@ -71,41 +68,30 @@ Automated CI/CD issue detection and recovery workflows.
 
 ### 🔹 PolyLingo
 
-Language translation platform built with TypeScript.
+A language translation platform built with TypeScript and modern web technologies.
 
 ### 🔹 FAQ Chatbot
 
-Intelligent FAQ assistant using NLP and conversational interfaces.
+An intelligent FAQ assistant designed to improve information retrieval and user support.
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Swastik725&show_icons=true" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Swastik725" />
-
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Swastik725&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastik725&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🎯 2026 Goals
-
-* Complete BuildMonitor
-* Master React + TypeScript
-* Learn Docker & CI/CD thoroughly
-* Solve 100+ DSA problems
-* Land a Software Engineering Internship
-
----
-
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
 * GitHub: https://github.com/Swastik725
-* LinkedIn: *(add your LinkedIn here once optimized)*
+* LinkedIn: Coming Soon
 
 ---
 
-> "Consistency beats intensity."
+<p align="center">
+  <i>Building reliable software, one project at a time.</i>
+</p>
