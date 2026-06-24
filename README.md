@@ -88,7 +88,7 @@ An intelligent FAQ assistant designed to improve information retrieval and user 
 ## 🤝 Connect With Me
 
 * GitHub: https://github.com/Swastik725
-* LinkedIn: Coming Soon
+* LinkedIn: https://www.linkedin.com/in/swastik-goswami-8386b118a/
 
 ---
 
