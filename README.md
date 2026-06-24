@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Banner"/>
+</p>
+
 # Hi there 👋, I'm Swastik
 
 <div align="center">
